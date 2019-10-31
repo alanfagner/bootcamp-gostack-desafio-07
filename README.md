@@ -52,11 +52,11 @@ Esse desafio **não precisa ser entregue** e não receberá correção, mas voc�
 
 ## Resultado
 
-Adiciona Repositórios
+Adiciona nos carrinho
 <img alt="My Result" src="https://github.com/alanfagner/bootcamp-gostack-desafio-07/blob/master/screenshot-2019-10-31_10.40.06.705.png">
 
 
-Detalhes do Repositórios
+Finalizar o carrinho
 <img alt="My Result" src="https://github.com/alanfagner/bootcamp-gostack-desafio-07/blob/master/screenshot-2019-10-31_10.40.17.362.png">
 
 
